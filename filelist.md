@@ -1,5 +1,3 @@
-# Filelist
+# Filelist - repo: https://github.com/spirecd/docs
 
-Nothing here yet.
-
-https://github.com/spirecd
+https://github.com/spirecd/docs/skrillexdrops
