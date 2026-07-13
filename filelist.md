@@ -1,5 +1,7 @@
-# Filelist - repo: https://github.com/spirecd/docs
+# Filelist
 
-https://github.com/spirecd/docs/filelist
+[**Main repository**](https://github.com/spirecd/docs)
 
-https://github.com/spirecd/docs/skrillexdrops
+[Filelist](https://spirecd.github.io/docs/filelist)
+
+[skrillexdrops](https://spirecd.github.io/docs/skrillexdrops)
